@@ -1,12 +1,10 @@
 English ver
 
 What is git?
-Basically git is a vcs (version control system) that allow all the user to manage the canges of the file in
-a folder or in git it can be called repository/repo
+Basically git is a vcs (version control system) that allow all the user to manage the canges of the file in a folder or in git it can be called repository/repo
 
 And what the hack is vcs?
-Vcs is a system that manages changes of a document. In the other source it says that Vcs is a 
-software tool used to track changes made to files and code over time.
+Vcs is a system that manages changes of a document. In the other source it says that Vcs is a software tool used to track changes made to files and code over time.
 
 Technical term in Git:
 1. Repository/repo    = it simply a folder, or the other words a place that save all require file 
@@ -19,19 +17,19 @@ Technical term in Git:
 8. Clone              = an action when we take the repo form remote
 9. Push               = the process of sending commit to repository
 10. Pull              = the process of taking commit from repsitory
+11. Master Branch     = main branch of the commit
+12. Branching         = the action of make a new git branch 
+13. Merging           = the process of combining changes from different branches of a Git repository into a masetr branch of other single branch
 
 _________________________________________________________________________________________________
 
 Bahasa ver
 
 Apa itu git?
-Pada dasarnya git adalah sebuah vcs (version control system) yang memungkinkan penggunanya untuk mengelola
-perubahan dari file file dalam sebuah folder atau dalam git bisa disebut repository/repo
+Pada dasarnya git adalah sebuah vcs (version control system) yang memungkinkan penggunanya untuk mengelola perubahan dari file file dalam sebuah folder atau dalam git bisa disebut repository/repo
 
 Lantas apaan tuh vcs?
-Vcs adalah sistem yang dapat mengelola perubahan dari sebuah dokumen. Dalam sumber lain disebutkan bahwa Vcs
-adalah sebuah alat perangkat lunak yang digunakan untuk melacak perubahan yang dilakukan pada file dan kode
-dari waktu ke waktu
+Vcs adalah sistem yang dapat mengelola perubahan dari sebuah dokumen. Dalam sumber lain disebutkan bahwa Vcs adalah sebuah alat perangkat lunak yang digunakan untuk melacak perubahan yang dilakukan pada file dan kode dari waktu ke waktu
 
 Istilah istilah di dalam Git:
 1. Repository/repo    = simpelnya ini adalah sebuah folder, atau dengan kata lain sebuah tempat untuk menyimpan file
@@ -44,3 +42,6 @@ Istilah istilah di dalam Git:
 8. Clone              = aksi mengambil sebuah repository dari remote
 9. Push               = proses pengiriman commit ke repo
 10. Pull              = proses pengambilan commit dari repo
+11. Master Branch     = cabang utama dalam sebuah commit
+12. Branching         = sebuah aski dalam membuat cabang  
+13. Merging           = proses mengkombinasikan perubahan dari branch/cabang yang berbeda dalam git repo kedalam master branch atau single branch lainnya
