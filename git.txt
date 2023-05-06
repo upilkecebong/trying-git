@@ -1,0 +1,46 @@
+English ver
+
+What is git?
+Basically git is a vcs (version control system) that allow all the user to manage the canges of the file in
+a folder or in git it can be called repository/repo
+
+And what the hack is vcs?
+Vcs is a system that manages changes of a document. In the other source it says that Vcs is a 
+software tool used to track changes made to files and code over time.
+
+Technical term in Git:
+1. Repository/repo    = it simply a folder, or the other words a place that save all require file 
+2. Commit             = history/snapshot of the changes from our repository
+3. Hash               = uniqe pin in a commit
+4. Checkout           = the action move to a commit
+5. Branch             = freely branch form a commit
+6. Merge              = the process of merging two or more branches
+7. Remote             = a source that owning the repository for example is github
+8. Clone              = an action when we take the repo form remote
+9. Push               = the process of sending commit to repository
+10. Pull              = the process of taking commit from repsitory
+
+_________________________________________________________________________________________________
+
+Bahasa ver
+
+Apa itu git?
+Pada dasarnya git adalah sebuah vcs (version control system) yang memungkinkan penggunanya untuk mengelola
+perubahan dari file file dalam sebuah folder atau dalam git bisa disebut repository/repo
+
+Lantas apaan tuh vcs?
+Vcs adalah sistem yang dapat mengelola perubahan dari sebuah dokumen. Dalam sumber lain disebutkan bahwa Vcs
+adalah sebuah alat perangkat lunak yang digunakan untuk melacak perubahan yang dilakukan pada file dan kode
+dari waktu ke waktu
+
+Istilah istilah di dalam Git:
+1. Repository/repo    = simpelnya ini adalah sebuah folder, atau dengan kata lain sebuah tempat untuk menyimpan file
+2. Commit             = rekaman/snapshot/jejak dari perubahan yang ada pada repository 
+3. Hash               = penanda unik pada sebuah commit
+4. Checkout           = aksi berpindah ke sebuah commit
+5. Branch             = cabang bebas dari sbeuah commit
+6. Merge              = proses penggabungan branch atau cabang commit
+7. Remote             = sumber yang memiliki repository contohnya github ini
+8. Clone              = aksi mengambil sebuah repository dari remote
+9. Push               = proses pengiriman commit ke repo
+10. Pull              = proses pengambilan commit dari repo
