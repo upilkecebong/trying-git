@@ -10,8 +10,8 @@ Technical term in Git:
 1. Repository/repo    = it simply a folder, or the other words a place that save all require file 
 2. Commit             = history/snapshot of the changes from our repository
 3. Hash               = uniqe pin in a commit
-4. Checkout           = the action move to a commit
-5. Branch             = freely branch form a commit
+4. Checkout           = the action move form a branch/commit to another one
+5. Branch             = freely branch/development path form a commit
 6. Merge              = the process of merging two or more branches
 7. Remote             = a source that owning the repository for example is github
 8. Clone              = an action when we take the repo form remote
@@ -20,7 +20,8 @@ Technical term in Git:
 11. Master Branch     = main branch of the commit
 12. Branching         = the action of make a new git branch 
 13. Merging           = the process of combining changes from different branches of a Git repository into a masetr branch of other single branch
-
+14. Pull Request      = a way to ask the owner of the repo to accept/pull the changes (asking permission to merge our branch into the master branch)
+15. Merge conflict    = the condition when 2 or more branches changing the same line (line changed by 2 different branches) and the owner of repo must resolving it
 _________________________________________________________________________________________________
 
 Bahasa ver
@@ -36,7 +37,7 @@ Istilah istilah di dalam Git:
 2. Commit             = rekaman/snapshot/jejak dari perubahan yang ada pada repository 
 3. Hash               = penanda unik pada sebuah commit
 4. Checkout           = aksi berpindah ke sebuah commit
-5. Branch             = cabang bebas dari sbeuah commit
+5. Branch             = cabang/jejak developmen bebas dari sbeuah commit
 6. Merge              = proses penggabungan branch atau cabang commit
 7. Remote             = sumber yang memiliki repository contohnya github ini
 8. Clone              = aksi mengambil sebuah repository dari remote
@@ -45,3 +46,6 @@ Istilah istilah di dalam Git:
 11. Master Branch     = cabang utama dalam sebuah commit
 12. Branching         = sebuah aski dalam membuat cabang  
 13. Merging           = proses mengkombinasikan perubahan dari branch/cabang yang berbeda dalam git repo kedalam master branch atau single branch lainnya
+14. Pull Request      = suatu cara untuk meminta pemilik repo untuk menerima/melakukan pull terhadpa perubahan (permintaan untuk menggabungkan branch 
+                        yang dibuat ke master branch)
+15. Merge conflict    = kondisi dimana 2 atau lebih branch/cabang mengubah baris yang sama (baris yang sama diubah oleh 2 atau lebih branch/cabang yang berbeda)
